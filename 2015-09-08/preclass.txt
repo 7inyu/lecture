@@ -22,10 +22,10 @@ something into an already-full cache.
 the memory-based AI of this code? (Hint: What is the memory-based AI of just the
 innermost loop?)
 
+2
 
 2. Now suppose that the cache is substantially larger than 16N, but
 substantially smaller than 8N^2. What is the AI now?
-
 
 3. Now suppose the cache is large enough to hold all of A, B, and C. What is the
 AI now? (Hint: Writing to a byte of memory not already in the cache incurs two
